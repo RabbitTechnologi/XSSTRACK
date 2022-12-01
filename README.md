@@ -8,6 +8,9 @@
 ``KETERANGAN``
 - 👋 7000+ Bypass Payload
 - 👀 Tambahkan target dengan parameter di target.txt
+- 🌱 Hasil akan terismpan di hasil.txt
+- 💞️ Jika masih ada bug silakan fix sama-sama 
+- 📫 Alat ini semata-mata hanya untuk belajar
 
 ``GAMBAR``
 
