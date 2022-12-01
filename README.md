@@ -11,7 +11,7 @@
 
 ``GAMBAR``
 
-![https://github.com/A-KENZI/MBF2/blob/main/PicsArt_11-23-10.49.51.jpg](https://github.com/A-KENZI/MBF2/blob/main/PicsArt_11-23-10.49.51.jpg)
+![https://github.com/A-KENZI/XSSTRACK/blob/main/IMG_20221201_151848.jpg](https://github.com/A-KENZI/XSSTRACK/blob/main/IMG_20221201_151848.jpg)
 
 <!---
 A-KENZI/A-KENZI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
